@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'ibml-B';
+    src: url('../IBM_Plex/IBMPlexSansThaiLooped-Bold.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'ibml-el';
+    src: url('../IBM_Plex/IBMPlexSansThaiLooped-ExtraLight.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'ibml-m';
+    src: url('../IBM_Plex/IBMPlexSansThaiLooped-Medium.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'ibml-Bold';
+    src: url('../IBM_Plex/IBMPlexSansThaiLooped-Bold.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'ibml';
+    src: url('../IBM_Plex/IBMPlexSansThaiLooped-Regular.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'ibml-sb';
+    src: url('../IBM_Plex/IBMPlexSansThaiLooped-SemiBold.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'ibml-t';
+    src: url('../IBM_Plex/IBMPlexSansThaiLooped-Thin.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-B';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-Bold.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-eb';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-ExtraBold.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-el';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-ExtraLight.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-l';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-Light.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-m';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-Medium.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-Bold';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-Bold.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-Regular.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-sb';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-SemiBold.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}
+
+@font-face {
+    font-family: 'nt-t';
+    src: url('../font_Noto_Sans_Thai/NotoSansThai-Thin.ttf') format('truetype');
+    margin: 0 !important;
+    line-height: 0;
+}

@@ -1,0 +1,14 @@
+.btn-suc {
+    color: #ffffff;
+    background-color: #51c53c;
+    border-color: #28cd0e;
+    box-shadow: 0 0.125rem 0.25rem 0 rgba(105, 255, 110, 0.4);
+}
+.form-control{
+    width:auto;
+}
+.thcenter{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+}

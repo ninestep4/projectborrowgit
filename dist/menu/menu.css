@@ -1,0 +1,223 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-solid-rounded/css/uicons-solid-rounded.css');
+.menu-header-text {
+    font-size: 14px;
+}
+
+.btn-action {
+    background-color: #ffffff;
+    border: 1px solid #d8d8d896;
+    color: #9ba0a5;
+    box-shadow: none;
+}
+
+tr:hover .btn-action.btn-primary {
+    background-color: #7b7eff;
+    border: 1px solid #7b7eff;
+    color: #ffffff;
+    box-shadow: none;
+}
+
+tr:hover .btn-action.btn-danger {
+    background-color: #ff6e54;
+    border: 1px solid #ff6e54;
+    color: rgb(255, 255, 255);
+    box-shadow: none;
+}
+
+tr:hover .btn-action.btn-success {
+    background-color: #00c292;
+    border: 1px solid #00c292;
+    color: #ffffff;
+    box-shadow: none;
+}
+
+tr:hover .btn-action.btn-warning {
+    background-color: #ff9f00;
+    border: 1px solid #ff9f00;
+    color: #ffffff;
+    box-shadow: none;
+}
+
+tr:hover .btn-action.btn-info {
+    background-color: #59b4ff;
+    border: 1px solid #59b4ff;
+    color: #ffffff;
+    box-shadow: none;
+}
+
+.th_no {
+    width: 5%;
+}
+
+.div-btn-add {
+    text-align: right;
+}
+
+.modal .btn-close {
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+#showStatusIcon {
+    text-align: center;
+}
+
+#showStatusIcon>i {
+    font-size: 10rem;
+}
+
+#showStatusIcon.text-success>i {
+    color: #696cff;
+}
+
+#showStatusIcon.text-danger>i {
+    color: #ff6969;
+}
+
+#showStatusIcon.text-warning>i {
+    color: #ffb969;
+}
+
+#showStatusMsg {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.noti {
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 10px;
+    min-height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#showDataDelete {
+    color: brown;
+}
+
+.text-muted>a {
+    color: #a1acb8;
+}
+
+.page-link {
+    width: 30px !important;
+    height: 35px !important;
+    padding: 0px !important;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50% !important;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+div.form-control {
+    height: 35px;
+}
+
+.inputFile {
+    display: none;
+}
+
+.file-name {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 35px;
+}
+
+.file-group,
+.location-group {
+    background-color: #eff8ff9d;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 10px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.notiInput {
+    color: #ff6969;
+    font-size: 1rem;
+    margin-top: 5px;
+    padding-left: 10px;
+}
+
+.td-btn {
+    text-align: right;
+}
+
+.menu-vertical .menu-item.active:not(.open)>.menu-link {
+    font-weight: 0 !important;
+    font-size: 'nt-m';
+}
+
+.from-Register {
+    margin-bottom: 20px;
+    background-color: #eaf6ffd7;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 20px;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+}
+
+.from-Register:hover {
+    background-color: #30a5ffd7;
+    color: #ffffff;
+}
+
+.group_regis {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border: solid 1px #d8d8d896;
+}
+
+.data_regis {
+    margin-top: 10px;
+}
+
+.data_regis>b {
+    width: 150px;
+    font-family: 'nt-m';
+    display: inline-block;
+}
+
+b {
+    font-weight: 0 !important;
+    font-size: 'nt-m';
+}
+
+@media print {
+    .no-print {
+        display: none !important;
+    }
+}
+
+textarea {
+    resize: none;
+    overflow: hidden;
+    min-height: 50px;
+}
